@@ -22,13 +22,17 @@ An exploratory project for visualising synthetic gene-expression data. It demons
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
+## Developing project
+
 ### [Scholarship Opportunity Web Scraper](https://github.com/Danniejnr/Scholarship-Opportunity-Web-Scraper)
 
-A Python automation project designed to collect public scholarship listings and structure the extracted information for filtering and analysis.
+The repository currently contains the planned architecture and placeholder directories. The scraper, dataset, requirements file, and runnable notebook have not yet been implemented.
 
-**Tools:** Python, Requests, Beautiful Soup, Pandas
+**Proposed tools:** Python, Requests, Beautiful Soup, Pandas
 
-### [Learning Journey](https://github.com/Danniejnr/My-learning-Journey)
+## Learning archive
+
+### [My Learning Journey](https://github.com/Danniejnr/My-learning-Journey)
 
 A structured archive of exercises and developing work across Python, SQL, statistics, data analysis, machine learning, and bioinformatics. This repository documents progression; the standalone repositories above contain the stronger portfolio pieces.
 
